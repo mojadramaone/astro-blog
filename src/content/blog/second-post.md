@@ -1,7 +1,7 @@
 ---
-title: "Second post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 15 2022"
+title: "Season 1"
+description: "AroundTheWorld Logo"
+pubDate: "Dec 09 2025"
 heroImage: "/s1.jpg"
 ---
 
