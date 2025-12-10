@@ -2,7 +2,7 @@
 title: "Season 1"
 description: "AroundTheWorld Logo"
 pubDate: "Dec 09 2025"
-heroImage: "/s1.jpg"
+heroImage: "/s1.png"
 ---
 
 You may have read the book or seen a version of this film. Though I'm pretty positive never had it read in Character format and had access to subtitles. And that's exactly how I began.
