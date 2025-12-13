@@ -9,4 +9,4 @@ So it occurred to me access to Augie Studio will fade away as JwStudio has acqui
 
 what's the new plan? Will be switching to ElevenLabs for Voice with Pixabay Imagery / Video and Uppbeat Music.
 
-Timeline won't be long so we are racing against time to finish this episode to begin testing for next season.
+Timeline wont be long so we are racing against time to finish this episode to begin testing for next season.
