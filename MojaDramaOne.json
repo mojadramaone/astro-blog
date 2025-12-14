@@ -1,0 +1,147 @@
+{
+  "lastUpdated": "2025-12-09T20:48:57+00:00",
+  "providerName": "MojaDramaOne",
+  "language": "en-US",
+  "series": [
+    {
+      "id": "010d79ff3e2c48f4a3f525ca7c90285f",
+      "title": "MojaDramaOne",
+      "genres": [
+        "drama"
+      ],
+      "thumbnail": "https://astro-blog.mojadramaone.workers.dev/moja_roku.png",
+      "releaseDate": "2025-12-09",
+      "shortDescription": "Experience and Hear our Stories made for you with Augie Studio. Around the World and  In the Beginning",
+      "longDescription": "Listen to MojaDramaOne on Spotify, iHeart, Amazon and Apple. Our Stories have been made for you with Augie Studio, Pixabay and Uppbeat. Powered by Project Guttenberg.",
+      "tags": [
+        "atw",
+        "itb"
+      ]
+    },
+    {
+      "id": "675cf8ae28d7488d889b82a1b4a99404",
+      "title": "The Archive",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "thumbnail": "https://github.com/mojadramaone/astro-blog/blob/main/public/archive.png",
+      "releaseDate": "2025-12-14",
+      "shortDescription": "A taste of the Internet Archive",
+      "longDescription": "As a way of protecting the podcast I have placed the series on the Internet Archive as a repository for the world to have for generations to come. As my way of saying thank you, I have compiled a small list of films, movie and tv shows that thrive on the Archive. Understand to protect bandwith, out of respect this list will remain modest and safe for all to use. That said, visit Archive.Org for the full experience.",
+      "tags": [
+        "ia "
+      ]
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "thumbnail": "https://astro-blog.mojadramaone.workers.dev/atwch1.png",
+      "shortDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row",
+      "releaseDate": "2024-12-01",
+      "longDescription": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.",
+      "tags": [
+        "atw"
+      ],
+      "genres": [
+        "drama"
+      ],
+      "rating": {
+        "rating": "TV-PG",
+        "ratingSource": "USA_PR"
+      },
+      "id": "720cda50cf364ad0876525a90e46737f",
+      "title": "ATW | Ch1",
+      "content": {
+        "dateAdded": "2025-11-03T17:17:41+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-/yt1z.net---PHILEAS-FOGG-AND-PASSEPARTOUT-ACCEPT-EACH-OTHER-aroundtheworldin80days-Season1--720p-.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 549,
+        "language": "en-US"
+      }
+    },
+    {
+      "thumbnail": "https://astro-blog.mojadramaone.workers.dev/atwch2.png",
+      "shortDescription": "Faith muttered Passepartout, somewhat flurried",
+      "releaseDate": "2024-12-07",
+      "longDescription": "Faith muttered Passepartout, somewhat flurried, I've seen people at Madame Tussaud's as lively as my new master!\r\n",
+      "tags": [
+        "atw"
+      ],
+      "genres": [
+        "drama"
+      ],
+      "rating": {
+        "rating": "TV-PG",
+        "ratingSource": "USA_PR"
+      },
+      "id": "0625f3b4b61b45a283746d71e8fddeb6",
+      "title": "ATW | Ch2",
+      "content": {
+        "dateAdded": "2025-11-03T12:23:14+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/ATW-Ch2_aroundtheworldin-80days/PASSEPARTOUT-IS-CONVINCED-THAT-HE-HAS-AT-LAST-FOUND-HIS-IDEAL---aroundtheworldin80days.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 405,
+        "language": "en-US"
+      }
+    },
+    {
+      "thumbnail": "https://github.com/mojadramaone/astro-blog/blob/main/public/christmastape.png",
+      "shortDescription": "VHS Vault: Appears to be White Christmas from a VHS recording off TV",
+      "releaseDate": "1990-12-08",
+      "longDescription": "A Holiday Classic staring Bing Crosby, Danny Kaye, Rosemary Clooney, Vera Ellen.... ",
+      "tags": [
+        "ia "
+      ],
+      "genres": [
+        "comedy drama",
+        "dance"
+      ],
+      "rating": {
+        "rating": "G",
+        "ratingSource": "MPAA"
+      },
+      "id": "1bedf90b2455409aa00fddc6b754b32b",
+      "title": "White Christmas 1954 P Tape",
+      "content": {
+        "dateAdded": "2024-10-05T21:12:25+00:00",
+        "videos": [
+          {
+            "url": "https://archive.org/download/White_Christmas_1954_P_Tape_1990-12-08/White_Christmas_1954_P_Tape_1990-12-08.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7140,
+        "language": "en-US"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Around The World",
+      "query": "atw",
+      "order": "most_recent"
+    },
+    {
+      "name": "In The Beginning",
+      "query": "itb",
+      "order": "most_recent"
+    },
+    {
+      "name": "The Archive",
+      "query": "ia ",
+      "order": "most_recent"
+    }
+  ]
+}
